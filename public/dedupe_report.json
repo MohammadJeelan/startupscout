@@ -1,0 +1,56 @@
+{
+ "input_rows": 57,
+ "after_dedupe": 55,
+ "duplicates_removed": [
+  {
+   "name": "Shipsy",
+   "domain_key": "shipsy.ai"
+  },
+  {
+   "name": "Matters AI",
+   "domain_key": "matters.ai"
+  }
+ ],
+ "failed": [
+  {
+   "name": "Zolnoi",
+   "seed_url": "https://zolnoi.com/",
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Tracxn",
+   "seed_url": "https://tracxn.com/",
+   "error": "blocked by robots.txt"
+  },
+  {
+   "name": "Sprinto",
+   "seed_url": "https://sprinto.com/",
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Panoculon Labs",
+   "seed_url": "https://panoculonlabs.com/",
+   "error": "ConnectTimeout"
+  },
+  {
+   "name": "Freshworks",
+   "seed_url": "https://www.freshworks.com/",
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Meesho",
+   "seed_url": "https://www.meesho.com/",
+   "error": "HTTP 403"
+  }
+ ],
+ "field_fill_rate": {
+  "title": 0.891,
+  "description": 0.873,
+  "careers_url": 0.6,
+  "linkedin": 0.673,
+  "twitter": 0.582,
+  "github": 0.127,
+  "public_emails": 0.345
+ },
+ "generated_at": "2026-10-20T16:51:38.244468+00:00"
+}

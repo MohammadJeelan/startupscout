@@ -1,0 +1,2217 @@
+[
+ {
+  "name": "HyperVerge",
+  "seed_url": "https://hyperverge.co/",
+  "fields": {
+   "final_url": {
+    "value": "https://hyperverge.co/",
+    "source": "https://hyperverge.co/"
+   },
+   "domain": {
+    "value": "hyperverge.co",
+    "source": "https://hyperverge.co/"
+   },
+   "title": {
+    "value": "Passive Liveness & Face Authentication | Digital KYC",
+    "source": "https://hyperverge.co/"
+   },
+   "description": {
+    "value": "Boost conversion rates with passive liveness, face authentication, and financial document insights. OCR for bank statements & payslips for global markets.",
+    "source": "https://hyperverge.co/"
+   },
+   "og_site_name": {
+    "value": "HyperVerge",
+    "source": "https://hyperverge.co/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/hyperverge/",
+    "source": "https://hyperverge.co/"
+   },
+   "careers_url": {
+    "value": "https://hyperverge.co/careers/",
+    "source": "https://hyperverge.co/"
+   },
+   "site_generator": {
+    "value": "WordPress 6.5.13",
+    "source": "https://hyperverge.co/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:46.285836+00:00"
+ },
+ {
+  "name": "Matters.AI",
+  "seed_url": "https://www.matters.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.matters.ai/",
+    "source": "https://www.matters.ai/"
+   },
+   "domain": {
+    "value": "matters.ai",
+    "source": "https://www.matters.ai/"
+   },
+   "title": {
+    "value": "Matters.AI - Your AI Security Engineer for Data",
+    "source": "https://www.matters.ai/"
+   },
+   "description": {
+    "value": "Your AI security engineer for data. Protects sensitive data wherever it travels and lives across cloud, SaaS, and endpoints with contextual intelligence and behavioral analysis.",
+    "source": "https://www.matters.ai/"
+   },
+   "og_site_name": {
+    "value": "Matters.AI",
+    "source": "https://www.matters.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/mattersai",
+    "source": "https://www.matters.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/matters_ai",
+    "source": "https://www.matters.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@matters-ai",
+    "source": "https://www.matters.ai/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/matters.ai",
+    "source": "https://www.matters.ai/"
+   },
+   "careers_url": {
+    "value": "https://www.matters.ai/careers",
+    "source": "https://www.matters.ai/"
+   },
+   "public_emails": {
+    "value": "hello@matters.ai",
+    "source": "https://www.matters.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:46.975117+00:00"
+ },
+ {
+  "name": "Frinks AI",
+  "seed_url": "https://frinks.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://frinks.ai/",
+    "source": "https://frinks.ai/"
+   },
+   "domain": {
+    "value": "frinks.ai",
+    "source": "https://frinks.ai/"
+   },
+   "title": {
+    "value": "Frinks.AI",
+    "source": "https://frinks.ai/"
+   },
+   "description": {
+    "value": "Frinks AI empowers manufacturers to seamlessly integrate advanced AI for quality control and visual inspection in production lines, ensuring unparalleled quality and consistency.",
+    "source": "https://frinks.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:48.392843+00:00"
+ },
+ {
+  "name": "Loop AI",
+  "seed_url": "https://tryloop.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.loopai.com/",
+    "source": "https://www.loopai.com/"
+   },
+   "domain": {
+    "value": "loopai.com",
+    "source": "https://www.loopai.com/"
+   },
+   "title": {
+    "value": "Loop AI \u2014 AI co-workers for the real economy",
+    "source": "https://www.loopai.com/"
+   },
+   "description": {
+    "value": "Finance, marketing, and operations agents on one governed data model, built from every system you run.",
+    "source": "https://www.loopai.com/"
+   },
+   "og_site_name": {
+    "value": "Loop AI",
+    "source": "https://www.loopai.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/loopaixyz/",
+    "source": "https://www.loopai.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/watch",
+    "source": "https://www.loopai.com/"
+   },
+   "careers_url": {
+    "value": "https://www.loopai.com/careers",
+    "source": "https://www.loopai.com/"
+   },
+   "public_emails": {
+    "value": "support@loopai.com",
+    "source": "https://www.loopai.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:50.037447+00:00"
+ },
+ {
+  "name": "RagaAI",
+  "seed_url": "https://raga.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://raga.ai/",
+    "source": "https://raga.ai/"
+   },
+   "domain": {
+    "value": "raga.ai",
+    "source": "https://raga.ai/"
+   },
+   "title": {
+    "value": "RagaAI | Enterprise Healthcare AI Agent Suites",
+    "source": "https://raga.ai/"
+   },
+   "description": {
+    "value": "RagaAI provides purpose-built, production-grade AI Agent Suites for Healthcare, Lifesciences, and Aerospace. Powered by Prism and Catalyst for maximum reliability.",
+    "source": "https://raga.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:51.422536+00:00"
+ },
+ {
+  "name": "Keploy",
+  "seed_url": "https://keploy.io/",
+  "fields": {
+   "final_url": {
+    "value": "https://keploy.io/",
+    "source": "https://keploy.io/"
+   },
+   "domain": {
+    "value": "keploy.io",
+    "source": "https://keploy.io/"
+   },
+   "title": {
+    "value": "Keploy: AI Code Verification with Production Traffic Digital Twins",
+    "source": "https://keploy.io/"
+   },
+   "description": {
+    "value": "Keploy builds a Digital Twin of your production behavior \u2014 real API traffic, mocks, and dependencies \u2014 so every AI- or human-written change is verified in CI before it ships. Open source, zero code changes.",
+    "source": "https://keploy.io/"
+   },
+   "og_site_name": {
+    "value": "Keploy",
+    "source": "https://keploy.io/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/keploy",
+    "source": "https://keploy.io/"
+   },
+   "twitter": {
+    "value": "https://x.com/keployio",
+    "source": "https://keploy.io/"
+   },
+   "github": {
+    "value": "https://github.com/keploy/keploy",
+    "source": "https://keploy.io/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@keploy",
+    "source": "https://keploy.io/"
+   },
+   "careers_url": {
+    "value": "https://keploy.io/about#careers",
+    "source": "https://keploy.io/"
+   },
+   "public_emails": {
+    "value": "hello@keploy.io, legal@keploy.io, support@keploy.io",
+    "source": "https://keploy.io/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:52.985924+00:00"
+ },
+ {
+  "name": "Factors.ai",
+  "seed_url": "https://www.factors.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.factors.ai/",
+    "source": "https://www.factors.ai/"
+   },
+   "domain": {
+    "value": "factors.ai",
+    "source": "https://www.factors.ai/"
+   },
+   "title": {
+    "value": "Factors.ai: The AI ABM & Attribution Platform for GTM Teams",
+    "source": "https://www.factors.ai/"
+   },
+   "description": {
+    "value": "The AI ABM platform that helps you capture intent, identify accounts, run ads across channels, track attribution, and prove ROI on every dollar spent.",
+    "source": "https://www.factors.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/factors-ai/",
+    "source": "https://www.factors.ai/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/factorsai",
+    "source": "https://www.factors.ai/"
+   },
+   "careers_url": {
+    "value": "https://angel.co/company/factors-ai/jobs",
+    "source": "https://www.factors.ai/"
+   },
+   "public_emails": {
+    "value": "sales@factors.ai",
+    "source": "https://www.factors.ai/"
+   },
+   "site_generator": {
+    "value": "Webflow",
+    "source": "https://www.factors.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:54.479123+00:00"
+ },
+ {
+  "name": "SigTuple",
+  "seed_url": "https://sigtuple.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://sigtuple.com/",
+    "source": "https://sigtuple.com/"
+   },
+   "domain": {
+    "value": "sigtuple.com",
+    "source": "https://sigtuple.com/"
+   },
+   "title": {
+    "value": "SigTuple Technologies \u2014 AI-Powered Diagnostic Pathology and Microscopy Solutions",
+    "source": "https://sigtuple.com/"
+   },
+   "description": {
+    "value": "SigTuple combines AI, robotics, microfluidics and high-resolution microscopy to automate microscopic analysis of biological samples \u2014 across human and veterinary diagnostics.",
+    "source": "https://sigtuple.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/sigtuple",
+    "source": "https://sigtuple.com/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/CNBCTV18News/status/1591059417528557568",
+    "source": "https://sigtuple.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@SigtupleTechnologies",
+    "source": "https://sigtuple.com/"
+   },
+   "public_emails": {
+    "value": "info@sigtuple.com",
+    "source": "https://sigtuple.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:57.210247+00:00"
+ },
+ {
+  "name": "SeedlingLabs",
+  "seed_url": "https://seedlinglabs.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://seedlinglabs.com/",
+    "source": "https://seedlinglabs.com/"
+   },
+   "domain": {
+    "value": "seedlinglabs.com",
+    "source": "https://seedlinglabs.com/"
+   },
+   "title": {
+    "value": "SeedlingLabs \u2014 AI-Native Product Development",
+    "source": "https://seedlinglabs.com/"
+   },
+   "description": {
+    "value": "SeedlingLabs builds AI-native products that transform how teams develop, test, and teach. Explore Orchard, Sprout, and AI Labs \u2014 our Product-Development-as-a-Service ecosystem.",
+    "source": "https://seedlinglabs.com/"
+   },
+   "og_site_name": {
+    "value": "SeedlingLabs",
+    "source": "https://seedlinglabs.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:58.264789+00:00"
+ },
+ {
+  "name": "BrainSightAI",
+  "seed_url": "https://brainsightai.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.brainsightai.com/",
+    "source": "https://www.brainsightai.com/"
+   },
+   "domain": {
+    "value": "brainsightai.com",
+    "source": "https://www.brainsightai.com/"
+   },
+   "title": {
+    "value": "Home | BrainSightAI",
+    "source": "https://www.brainsightai.com/"
+   },
+   "og_site_name": {
+    "value": "BrainSightAI",
+    "source": "https://www.brainsightai.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/brainsightai/",
+    "source": "https://www.brainsightai.com/"
+   },
+   "twitter": {
+    "value": "https://www.twitter.com/BrainSightAI",
+    "source": "https://www.brainsightai.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/channel/UC4LQoL079LNU0ooExOGZ6xg/featured",
+    "source": "https://www.brainsightai.com/"
+   },
+   "careers_url": {
+    "value": "https://www.brainsightai.com/careers",
+    "source": "https://www.brainsightai.com/"
+   },
+   "site_generator": {
+    "value": "Wix.com Website Builder",
+    "source": "https://www.brainsightai.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:49:59.999370+00:00"
+ },
+ {
+  "name": "Talview",
+  "seed_url": "https://www.talview.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.talview.com/en/",
+    "source": "https://www.talview.com/en/"
+   },
+   "domain": {
+    "value": "talview.com",
+    "source": "https://www.talview.com/en/"
+   },
+   "title": {
+    "value": "AI Proctoring & AI Interviewing for Trusted Assessments | Talview",
+    "source": "https://www.talview.com/en/"
+   },
+   "description": {
+    "value": "Secure every assessment and interview with AI Proctoring and AI Interviewing. Detect deepfakes, impersonation, AI assistance and more.",
+    "source": "https://www.talview.com/en/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/talview/",
+    "source": "https://www.talview.com/en/"
+   },
+   "twitter": {
+    "value": "https://x.com/Talview",
+    "source": "https://www.talview.com/en/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/channel/UChTIe4WIJR6IFDyY6NqGA0g",
+    "source": "https://www.talview.com/en/"
+   },
+   "careers_url": {
+    "value": "https://www.talview.com/en/hiring-managers",
+    "source": "https://www.talview.com/en/"
+   },
+   "public_emails": {
+    "value": "us@talview.com",
+    "source": "https://www.talview.com/en/"
+   },
+   "site_generator": {
+    "value": "HubSpot",
+    "source": "https://www.talview.com/en/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:01.235299+00:00"
+ },
+ {
+  "name": "actyv.ai",
+  "seed_url": "https://actyv.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://actyv.ai/",
+    "source": "https://actyv.ai/"
+   },
+   "domain": {
+    "value": "actyv.ai",
+    "source": "https://actyv.ai/"
+   },
+   "title": {
+    "value": "Actyv AI | Power of Gen AI",
+    "source": "https://actyv.ai/"
+   },
+   "description": {
+    "value": "AI-powered enterprise SaaS platform that helps businesses embed intelligent automation, drive measurable ROI, and transform operations with data-driven insights and scalable AI solutions.",
+    "source": "https://actyv.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/actyv/about/",
+    "source": "https://actyv.ai/"
+   },
+   "public_emails": {
+    "value": "roiforai@actyv.ai",
+    "source": "https://actyv.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:02.865720+00:00"
+ },
+ {
+  "name": "Zolnoi",
+  "seed_url": "https://zolnoi.com/",
+  "fields": {},
+  "status": "failed",
+  "error": "HTTP 403",
+  "scraped_at": "2026-10-20T16:50:04.035489+00:00"
+ },
+ {
+  "name": "BusinessOnBot",
+  "seed_url": "https://businessonbot.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.businessonbot.com/",
+    "source": "https://www.businessonbot.com/"
+   },
+   "domain": {
+    "value": "businessonbot.com",
+    "source": "https://www.businessonbot.com/"
+   },
+   "title": {
+    "value": "BusinessOnBot | AI powered Omnichannel Support, Marketing & Engagement",
+    "source": "https://www.businessonbot.com/"
+   },
+   "description": {
+    "value": "Boost growth with BusinessOnBot\u2019s AI-powered Omnichannel suite. Unify support, marketing & engagement across WhatsApp, Instagram, Email, SMS, RCS & Web/App chat.",
+    "source": "https://www.businessonbot.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/businessonbot/",
+    "source": "https://www.businessonbot.com/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/businessonbot_/",
+    "source": "https://www.businessonbot.com/"
+   },
+   "site_generator": {
+    "value": "Webflow",
+    "source": "https://www.businessonbot.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:05.664779+00:00"
+ },
+ {
+  "name": "Tracxn",
+  "seed_url": "https://tracxn.com/",
+  "fields": {},
+  "status": "failed",
+  "error": "blocked by robots.txt",
+  "scraped_at": "2026-10-20T16:50:05.758977+00:00"
+ },
+ {
+  "name": "VuNet Systems",
+  "seed_url": "https://www.vunetsystems.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://vunetsystems.com/",
+    "source": "https://vunetsystems.com/"
+   },
+   "domain": {
+    "value": "vunetsystems.com",
+    "source": "https://vunetsystems.com/"
+   },
+   "title": {
+    "value": "VuNet Systems | Business Centric Observability",
+    "source": "https://vunetsystems.com/"
+   },
+   "description": {
+    "value": "Our full-stack AI/ML, and Big Data analytics platform monitors data at scale for better customer experience and unified business journey observability.",
+    "source": "https://vunetsystems.com/"
+   },
+   "careers_url": {
+    "value": "https://vunetsystems.com/company/careers",
+    "source": "https://vunetsystems.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:07.272195+00:00"
+ },
+ {
+  "name": "Shipsy",
+  "seed_url": "https://shipsy.io/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.shipsy.ai/",
+    "source": "https://www.shipsy.ai/"
+   },
+   "domain": {
+    "value": "shipsy.ai",
+    "source": "https://www.shipsy.ai/"
+   },
+   "title": {
+    "value": "AI-Native Logistics TMS & WMS Platform | Shipsy",
+    "source": "https://www.shipsy.ai/"
+   },
+   "description": {
+    "value": "Discover Shipsy's AI-native logistics platform for transportation, warehousing, procurement, tracking and execution across complex enterprise supply chains.",
+    "source": "https://www.shipsy.ai/"
+   },
+   "og_site_name": {
+    "value": "Shipsy",
+    "source": "https://www.shipsy.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/shipsy/",
+    "source": "https://www.shipsy.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/Shipsy_AI",
+    "source": "https://www.shipsy.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/channel/UCfgfvtdQpIFLCIUbZ8IUGGg",
+    "source": "https://www.shipsy.ai/"
+   },
+   "careers_url": {
+    "value": "https://www.shipsy.ai/careers",
+    "source": "https://www.shipsy.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:09.142006+00:00"
+ },
+ {
+  "name": "ClickPost",
+  "seed_url": "https://www.clickpost.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.clickpost.ai/",
+    "source": "https://www.clickpost.ai/"
+   },
+   "domain": {
+    "value": "clickpost.ai",
+    "source": "https://www.clickpost.ai/"
+   },
+   "title": {
+    "value": "ClickPost - The End-to-End Logistics Automation Platform",
+    "source": "https://www.clickpost.ai/"
+   },
+   "description": {
+    "value": "Deliver on time, lower shipping costs, and grow repeat revenue with one decision engine built for operations teams",
+    "source": "https://www.clickpost.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/clickpost1/",
+    "source": "https://www.clickpost.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/clickposttech",
+    "source": "https://www.clickpost.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/watch",
+    "source": "https://www.clickpost.ai/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/clickpost.ai",
+    "source": "https://www.clickpost.ai/"
+   },
+   "careers_url": {
+    "value": "https://www.clickpost.ai/careers",
+    "source": "https://www.clickpost.ai/"
+   },
+   "site_generator": {
+    "value": "HubSpot",
+    "source": "https://www.clickpost.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:10.177510+00:00"
+ },
+ {
+  "name": "Cyware",
+  "seed_url": "https://cyware.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.cyware.com/",
+    "source": "https://www.cyware.com/"
+   },
+   "domain": {
+    "value": "cyware.com",
+    "source": "https://www.cyware.com/"
+   },
+   "title": {
+    "value": "Cyware - AI-Powered Threat Intelligence Platform | Home",
+    "source": "https://www.cyware.com/"
+   },
+   "description": {
+    "value": "Outpace threats with agentic AI-powered threat intelligence. Secure your organization with a unified, real-time AI-powered threat intelligence platform.",
+    "source": "https://www.cyware.com/"
+   },
+   "og_site_name": {
+    "value": "Cyware",
+    "source": "https://www.cyware.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/cyware/",
+    "source": "https://www.cyware.com/"
+   },
+   "twitter": {
+    "value": "https://x.com/CywareCo",
+    "source": "https://www.cyware.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/channel/UCBPcVKjzXijVkBWwV3wNjag",
+    "source": "https://www.cyware.com/"
+   },
+   "careers_url": {
+    "value": "https://www.cyware.com/careers",
+    "source": "https://www.cyware.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:11.723199+00:00"
+ },
+ {
+  "name": "Appknox",
+  "seed_url": "https://www.appknox.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.appknox.com/",
+    "source": "https://www.appknox.com/"
+   },
+   "domain": {
+    "value": "appknox.com",
+    "source": "https://www.appknox.com/"
+   },
+   "title": {
+    "value": "Appknox | Mobile Application Security Testing",
+    "source": "https://www.appknox.com/"
+   },
+   "description": {
+    "value": "Appknox scans mobile app binaries, not source code, catching vulnerabilities in what ships to users. 4.8/5 on Gartner, 321 verified reviews.",
+    "source": "https://www.appknox.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/appknox-security",
+    "source": "https://www.appknox.com/"
+   },
+   "twitter": {
+    "value": "https://www.appknox.com/knoxiq",
+    "source": "https://www.appknox.com/"
+   },
+   "careers_url": {
+    "value": "https://www.appknox.com/careers",
+    "source": "https://www.appknox.com/"
+   },
+   "site_generator": {
+    "value": "HubSpot",
+    "source": "https://www.appknox.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:13.255429+00:00"
+ },
+ {
+  "name": "Hevo Data",
+  "seed_url": "https://hevodata.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://hevodata.com/",
+    "source": "https://hevodata.com/"
+   },
+   "domain": {
+    "value": "hevodata.com",
+    "source": "https://hevodata.com/"
+   },
+   "title": {
+    "value": "Hevo Data | ETL, Data Integration & Data Pipeline Platform",
+    "source": "https://hevodata.com/"
+   },
+   "description": {
+    "value": "Hevo provides Automated Unified Data Platform, ETL Platform that allows you to load data from 170+ sources into your warehouse, transform,and integrate the data into any target database.",
+    "source": "https://hevodata.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/hevodata",
+    "source": "https://hevodata.com/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/HevoData",
+    "source": "https://hevodata.com/"
+   },
+   "careers_url": {
+    "value": "https://hevodata.com/product/transformations/",
+    "source": "https://hevodata.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:14.833226+00:00"
+ },
+ {
+  "name": "Zluri",
+  "seed_url": "https://www.zluri.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.zluri.com/",
+    "source": "https://www.zluri.com/"
+   },
+   "domain": {
+    "value": "zluri.com",
+    "source": "https://www.zluri.com/"
+   },
+   "title": {
+    "value": "Zluri | Next-Gen Identity Governance and Administration",
+    "source": "https://www.zluri.com/"
+   },
+   "description": {
+    "value": "Zluri helps enterprise security and IT teams govern identities, automate access reviews, and enforce least privilege. Get a demo.",
+    "source": "https://www.zluri.com/"
+   },
+   "careers_url": {
+    "value": "https://www.zluri.com/careers",
+    "source": "https://www.zluri.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:16.084517+00:00"
+ },
+ {
+  "name": "Sprinto",
+  "seed_url": "https://sprinto.com/",
+  "fields": {},
+  "status": "failed",
+  "error": "HTTP 403",
+  "scraped_at": "2026-10-20T16:50:17.551246+00:00"
+ },
+ {
+  "name": "Signzy",
+  "seed_url": "https://www.signzy.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.signzy.com/",
+    "source": "https://www.signzy.com/"
+   },
+   "domain": {
+    "value": "signzy.com",
+    "source": "https://www.signzy.com/"
+   },
+   "title": {
+    "value": "Signzy \u2013 Global Identity Verification and Compliance Platform",
+    "source": "https://www.signzy.com/"
+   },
+   "description": {
+    "value": "Verify, onboard, and monitor users with Signzy's KYC, KYB, and AML APIs. Trusted by 500+ global companies for secure and compliant user journeys.",
+    "source": "https://www.signzy.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/teamsignzy/",
+    "source": "https://www.signzy.com/"
+   },
+   "twitter": {
+    "value": "https://x.com/TeamSignzy",
+    "source": "https://www.signzy.com/"
+   },
+   "public_emails": {
+    "value": "connect@signzy.com",
+    "source": "https://www.signzy.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:19.106752+00:00"
+ },
+ {
+  "name": "FamPay",
+  "seed_url": "https://fampay.in/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.famapp.in:443/",
+    "source": "https://www.famapp.in:443/"
+   },
+   "domain": {
+    "value": "famapp.in:443",
+    "source": "https://www.famapp.in:443/"
+   },
+   "title": {
+    "value": "FamApp: Lightning fast UPI payments with bank & wallet",
+    "source": "https://www.famapp.in:443/"
+   },
+   "description": {
+    "value": "Lightning fast UPI payments with bank & wallet. Get your own UPI ID and card, and pay anywhere with FamApp. Trusted by 2 Cr+ users. Open for ages 11+",
+    "source": "https://www.famapp.in:443/"
+   },
+   "og_site_name": {
+    "value": "FamApp",
+    "source": "https://www.famapp.in:443/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/famindia/",
+    "source": "https://www.famapp.in:443/"
+   },
+   "twitter": {
+    "value": "https://x.com/famappbytrio",
+    "source": "https://www.famapp.in:443/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@yougotfam",
+    "source": "https://www.famapp.in:443/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/fam.india/",
+    "source": "https://www.famapp.in:443/"
+   },
+   "careers_url": {
+    "value": "https://www.famapp.in:443/careers/",
+    "source": "https://www.famapp.in:443/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:20.893920+00:00"
+ },
+ {
+  "name": "Eloelo",
+  "seed_url": "https://eloelo.in/",
+  "fields": {
+   "final_url": {
+    "value": "https://eloelo.in/",
+    "source": "https://eloelo.in/"
+   },
+   "domain": {
+    "value": "eloelo.in",
+    "source": "https://eloelo.in/"
+   },
+   "title": {
+    "value": "EloTV | India's Drama App",
+    "source": "https://eloelo.in/"
+   },
+   "description": {
+    "value": "India\u2019s go-to short drama app, explore and watch 1000+ short dramas, premium shows in five Indian languages.",
+    "source": "https://eloelo.in/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:22.269633+00:00"
+ },
+ {
+  "name": "FloBiz",
+  "seed_url": "https://flobiz.in/",
+  "fields": {
+   "final_url": {
+    "value": "https://flobiz.io/",
+    "source": "https://flobiz.io/"
+   },
+   "domain": {
+    "value": "flobiz.io",
+    "source": "https://flobiz.io/"
+   },
+   "title": {
+    "value": "FloBiz | Building AI-Powered Software for Small Businesses",
+    "source": "https://flobiz.io/"
+   },
+   "description": {
+    "value": "Empowering small businesses in India with AI-powered software solutions for growth, innovation, and scale.",
+    "source": "https://flobiz.io/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/flobiz",
+    "source": "https://flobiz.io/"
+   },
+   "twitter": {
+    "value": "https://x.com/FloBizOfficial",
+    "source": "https://flobiz.io/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@mybillbook",
+    "source": "https://flobiz.io/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/flobizofficial/",
+    "source": "https://flobiz.io/"
+   },
+   "careers_url": {
+    "value": "https://valorem.keka.com/careers/",
+    "source": "https://flobiz.io/"
+   },
+   "public_emails": {
+    "value": "support@flobiz.in",
+    "source": "https://flobiz.io/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:23.940978+00:00"
+ },
+ {
+  "name": "SatSure",
+  "seed_url": "https://satsure.co/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.satsure.co/",
+    "source": "https://www.satsure.co/"
+   },
+   "domain": {
+    "value": "satsure.co",
+    "source": "https://www.satsure.co/"
+   },
+   "title": {
+    "value": "About SatSure | Delivering Decision Intelligence from Space",
+    "source": "https://www.satsure.co/"
+   },
+   "description": {
+    "value": "SatSure turns satellite, aerial data to decision intelligence, powering insights for agriculture, banking, infrastructure, and sustainability",
+    "source": "https://www.satsure.co/"
+   },
+   "og_site_name": {
+    "value": "SatSure",
+    "source": "https://www.satsure.co/"
+   },
+   "linkedin": {
+    "value": "https://ch.linkedin.com/company/satsure",
+    "source": "https://www.satsure.co/"
+   },
+   "twitter": {
+    "value": "https://x.com/sat_sure",
+    "source": "https://www.satsure.co/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@satsure9089",
+    "source": "https://www.satsure.co/"
+   },
+   "careers_url": {
+    "value": "https://www.satsure.co/careers/",
+    "source": "https://www.satsure.co/"
+   },
+   "public_emails": {
+    "value": "info@satsure.co",
+    "source": "https://www.satsure.co/"
+   },
+   "site_generator": {
+    "value": "WordPress 7.1.2",
+    "source": "https://www.satsure.co/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:27.100227+00:00"
+ },
+ {
+  "name": "Facets.cloud",
+  "seed_url": "https://www.facets.cloud/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.facets.cloud/",
+    "source": "https://www.facets.cloud/"
+   },
+   "domain": {
+    "value": "facets.cloud",
+    "source": "https://www.facets.cloud/"
+   },
+   "title": {
+    "value": "Facets: AI that runs your infrastructure",
+    "source": "https://www.facets.cloud/"
+   },
+   "description": {
+    "value": "Facets gives AI coding agents production-ready infrastructure: one governed model for provisioning, CI/CD and configuration, with Praxis automating platform operations and a team that migrates what you have not moved yet.",
+    "source": "https://www.facets.cloud/"
+   },
+   "og_site_name": {
+    "value": "Facets.cloud",
+    "source": "https://www.facets.cloud/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/facets-cloud/",
+    "source": "https://www.facets.cloud/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/facetscloud",
+    "source": "https://www.facets.cloud/"
+   },
+   "github": {
+    "value": "https://github.com/Facets-cloud",
+    "source": "https://www.facets.cloud/"
+   },
+   "youtube": {
+    "value": "https://youtube.com/@facetscloud",
+    "source": "https://www.facets.cloud/"
+   },
+   "careers_url": {
+    "value": "https://wellfound.com/company/facets-cloud/jobs",
+    "source": "https://www.facets.cloud/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:27.720692+00:00"
+ },
+ {
+  "name": "OLake",
+  "seed_url": "https://olake.io/",
+  "fields": {
+   "final_url": {
+    "value": "https://olake.io/",
+    "source": "https://olake.io/"
+   },
+   "domain": {
+    "value": "olake.io",
+    "source": "https://olake.io/"
+   },
+   "title": {
+    "value": "Fastest Open Source Iceberg Ingestion & Maintenance Platform",
+    "source": "https://olake.io/"
+   },
+   "description": {
+    "value": "Open-source platform to replicate databases into Apache Iceberg with OLake Go, and keep tables fast with OLake Fusion's automated compaction and maintenance.",
+    "source": "https://olake.io/"
+   },
+   "og_site_name": {
+    "value": "OLake",
+    "source": "https://olake.io/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/datazipio/",
+    "source": "https://olake.io/"
+   },
+   "twitter": {
+    "value": "https://x.com/_olake",
+    "source": "https://olake.io/"
+   },
+   "github": {
+    "value": "https://github.com/datazip-inc/olake",
+    "source": "https://olake.io/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@olakeio",
+    "source": "https://olake.io/"
+   },
+   "site_generator": {
+    "value": "Docusaurus v3.10.2",
+    "source": "https://olake.io/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:29.174414+00:00"
+ },
+ {
+  "name": "Peoplebox.ai",
+  "seed_url": "https://www.peoplebox.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.peoplebox.ai/",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "domain": {
+    "value": "peoplebox.ai",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "title": {
+    "value": "AI Talent Management Software To Improve Performance | Peoplebox",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "description": {
+    "value": "Peoplebox AI talent management software helps HR teams hire, develop, and retain top talent while improving performance and employee growth. Book a demo now.",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "og_site_name": {
+    "value": "peoplebox.ai",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/peopleboxai/",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/peopleboxai",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/peoplebox_inc/",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "careers_url": {
+    "value": "https://peoplebox-8085729.hs-sites-na2.com/webinar-restaurant-hiring",
+    "source": "https://www.peoplebox.ai/"
+   },
+   "site_generator": {
+    "value": "WordPress 7.0.7",
+    "source": "https://www.peoplebox.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:31.463672+00:00"
+ },
+ {
+  "name": "PineGap.ai",
+  "seed_url": "https://pinegap.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.pinegap.ai/home",
+    "source": "https://www.pinegap.ai/home"
+   },
+   "domain": {
+    "value": "pinegap.ai",
+    "source": "https://www.pinegap.ai/home"
+   },
+   "title": {
+    "value": "Pinegap - AI Platform for Equity Research | Pinegap",
+    "source": "https://www.pinegap.ai/home"
+   },
+   "description": {
+    "value": "AI-powered equity research platform that automates key parts of the analyst workflow, from ramping up on new companies to earnings reviews, thesis tracking, and idea generation.",
+    "source": "https://www.pinegap.ai/home"
+   },
+   "og_site_name": {
+    "value": "Pinegap",
+    "source": "https://www.pinegap.ai/home"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:32.542692+00:00"
+ },
+ {
+  "name": "Metaforms",
+  "seed_url": "https://metaforms.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.metaforms.ai/",
+    "source": "https://www.metaforms.ai/"
+   },
+   "domain": {
+    "value": "metaforms.ai",
+    "source": "https://www.metaforms.ai/"
+   },
+   "title": {
+    "value": "Metaforms \u2014 AI infrastructure for research delivery teams \u2014 Metaforms",
+    "source": "https://www.metaforms.ai/"
+   },
+   "description": {
+    "value": "Honest and Grounded AI infrastructure for every research delivery team. 35+ research agencies use Metaforms for their research ops.",
+    "source": "https://www.metaforms.ai/"
+   },
+   "og_site_name": {
+    "value": "Metaforms",
+    "source": "https://www.metaforms.ai/"
+   },
+   "linkedin": {
+    "value": "https://in.linkedin.com/company/metaformsai",
+    "source": "https://www.metaforms.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/MetaformsAI",
+    "source": "https://www.metaforms.ai/"
+   },
+   "careers_url": {
+    "value": "https://www.metaforms.ai/careers",
+    "source": "https://www.metaforms.ai/"
+   },
+   "public_emails": {
+    "value": "akshat.tyagi@metaforms.ai, help@metaforms.ai",
+    "source": "https://www.metaforms.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:33.770755+00:00"
+ },
+ {
+  "name": "Nurix AI",
+  "seed_url": "https://nurix.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.nurix.ai/",
+    "source": "https://www.nurix.ai/"
+   },
+   "domain": {
+    "value": "nurix.ai",
+    "source": "https://www.nurix.ai/"
+   },
+   "title": {
+    "value": "NuPlay AI | Self-Improving AI Agents for Enterprise",
+    "source": "https://www.nurix.ai/"
+   },
+   "description": {
+    "value": "AI agents that run your enterprise workflows and get measurably better over time. 150+ enterprises live in production across retail, insurance, and financial services.",
+    "source": "https://www.nurix.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/nurixai/",
+    "source": "https://www.nurix.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/AI_NURIX",
+    "source": "https://www.nurix.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@Nurix-AI",
+    "source": "https://www.nurix.ai/"
+   },
+   "careers_url": {
+    "value": "https://nurix.keka.com/careers/",
+    "source": "https://www.nurix.ai/"
+   },
+   "site_generator": {
+    "value": "Webflow",
+    "source": "https://www.nurix.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:35.394872+00:00"
+ },
+ {
+  "name": "Portkey",
+  "seed_url": "https://portkey.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://portkey.ai/",
+    "source": "https://portkey.ai/"
+   },
+   "domain": {
+    "value": "portkey.ai",
+    "source": "https://portkey.ai/"
+   },
+   "title": {
+    "value": "Production Stack for Gen AI Builders|Portkey",
+    "source": "https://portkey.ai/"
+   },
+   "description": {
+    "value": "Democratize and productionize Gen AI across your entire org with Portkey's suite of AI gateway, observability, guardrails, and prompt management modules.",
+    "source": "https://portkey.ai/"
+   },
+   "linkedin": {
+    "value": "https://linkedin.com/company/portkey-ai",
+    "source": "https://portkey.ai/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/portkeyai",
+    "source": "https://portkey.ai/"
+   },
+   "github": {
+    "value": "https://github.com/portkey-ai",
+    "source": "https://portkey.ai/"
+   },
+   "site_generator": {
+    "value": "Framer d4bdfe7",
+    "source": "https://portkey.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:36.837280+00:00"
+ },
+ {
+  "name": "Repello AI",
+  "seed_url": "https://repello.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://repello.ai/",
+    "source": "https://repello.ai/"
+   },
+   "domain": {
+    "value": "repello.ai",
+    "source": "https://repello.ai/"
+   },
+   "title": {
+    "value": "Enterprise AI Security & Red Teaming Platform",
+    "source": "https://repello.ai/"
+   },
+   "description": {
+    "value": "Repello AI is the enterprise platform for autonomous AI red teaming, runtime guardrails, and continuous AI security across LLMs, agents, and MCP.",
+    "source": "https://repello.ai/"
+   },
+   "og_site_name": {
+    "value": "Repello AI",
+    "source": "https://repello.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/repello-ai/",
+    "source": "https://repello.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/repellohq",
+    "source": "https://repello.ai/"
+   },
+   "github": {
+    "value": "https://github.com/Repello-AI/whistleblower",
+    "source": "https://repello.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@RepelloAI",
+    "source": "https://repello.ai/"
+   },
+   "public_emails": {
+    "value": "contact@repello.ai",
+    "source": "https://repello.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:38.205941+00:00"
+ },
+ {
+  "name": "Prismforce",
+  "seed_url": "https://www.prismforce.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://prismforce.com/",
+    "source": "https://prismforce.com/"
+   },
+   "domain": {
+    "value": "prismforce.com",
+    "source": "https://prismforce.com/"
+   },
+   "title": {
+    "value": "Driving Workforce Transformation | Prismforce",
+    "source": "https://prismforce.com/"
+   },
+   "description": {
+    "value": "Prismforce\u2019s AI-powered workforce transformation platform combines skills intelligence and agentic AI to help enterprises achieve AI workforce readiness and align talent with evolving business needs.",
+    "source": "https://prismforce.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/prismforce/",
+    "source": "https://prismforce.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@prismforce2765",
+    "source": "https://prismforce.com/"
+   },
+   "careers_url": {
+    "value": "https://prismforce.com/products/careerprism",
+    "source": "https://prismforce.com/"
+   },
+   "public_emails": {
+    "value": "contact@prismforce.ai",
+    "source": "https://prismforce.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:39.826039+00:00"
+ },
+ {
+  "name": "Hiver",
+  "seed_url": "https://hiverhq.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://hiverhq.com/",
+    "source": "https://hiverhq.com/"
+   },
+   "domain": {
+    "value": "hiverhq.com",
+    "source": "https://hiverhq.com/"
+   },
+   "title": {
+    "value": "Hiver: Agentic Omnichannel Customer Service Platform",
+    "source": "https://hiverhq.com/"
+   },
+   "description": {
+    "value": "More than 10,000 teams use Hiver to tackle complex support across channels with AI, cross-team collaboration, ticketing, and workflows.",
+    "source": "https://hiverhq.com/"
+   },
+   "og_site_name": {
+    "value": "Hiver",
+    "source": "https://hiverhq.com/"
+   },
+   "linkedin": {
+    "value": "https://in.linkedin.com/company/hiverhq",
+    "source": "https://hiverhq.com/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/hiverhq",
+    "source": "https://hiverhq.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/channel/UCdxRMYV2zNwTrZkgKrBi9Lw",
+    "source": "https://hiverhq.com/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/hiverhq",
+    "source": "https://hiverhq.com/"
+   },
+   "careers_url": {
+    "value": "https://hiverhq.com/careers",
+    "source": "https://hiverhq.com/"
+   },
+   "public_emails": {
+    "value": "john@acme.com",
+    "source": "https://hiverhq.com/"
+   },
+   "site_generator": {
+    "value": "Elementor 4.3.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+    "source": "https://hiverhq.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:41.299210+00:00"
+ },
+ {
+  "name": "Fyle",
+  "seed_url": "https://www.fylehq.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.fylehq.com/",
+    "source": "https://www.fylehq.com/"
+   },
+   "domain": {
+    "value": "fylehq.com",
+    "source": "https://www.fylehq.com/"
+   },
+   "title": {
+    "value": "Expense Tracking Software for Receipt and Expense Management",
+    "source": "https://www.fylehq.com/"
+   },
+   "description": {
+    "value": "The best expense tracker & credit card expense management software for small businesses and mid-market.",
+    "source": "https://www.fylehq.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/fyle/",
+    "source": "https://www.fylehq.com/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/FyleHQ",
+    "source": "https://www.fylehq.com/"
+   },
+   "instagram": {
+    "value": "https://instagram.com/teamFyle",
+    "source": "https://www.fylehq.com/"
+   },
+   "careers_url": {
+    "value": "https://www.fylehq.com/company/team/join",
+    "source": "https://www.fylehq.com/"
+   },
+   "public_emails": {
+    "value": "sales@fylehq.com, support@fylehq.com",
+    "source": "https://www.fylehq.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:42.698370+00:00"
+ },
+ {
+  "name": "ShopOS",
+  "seed_url": "https://shopos.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://shopos.ai/",
+    "source": "https://shopos.ai/"
+   },
+   "domain": {
+    "value": "shopos.ai",
+    "source": "https://shopos.ai/"
+   },
+   "title": {
+    "value": "ShopOS \u2014 The deployment team brands trust",
+    "source": "https://shopos.ai/"
+   },
+   "description": {
+    "value": "ShopOS pairs AI with people who know your brand. We create content, improve ad returns, build AI-search visibility, and improve your Shopify store. One team owns the result.",
+    "source": "https://shopos.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/shopos-ai/",
+    "source": "https://shopos.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/shoposai",
+    "source": "https://shopos.ai/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/shop.os.ai/",
+    "source": "https://shopos.ai/"
+   },
+   "careers_url": {
+    "value": "https://shopos.keka.com/careers/",
+    "source": "https://shopos.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:44.231687+00:00"
+ },
+ {
+  "name": "Floworks",
+  "seed_url": "https://floworks.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.floworks.ai/",
+    "source": "https://www.floworks.ai/"
+   },
+   "domain": {
+    "value": "floworks.ai",
+    "source": "https://www.floworks.ai/"
+   },
+   "title": {
+    "value": "Floworks AI \u2014 Autonomous AI Agents for B2B Sales Outreach",
+    "source": "https://www.floworks.ai/"
+   },
+   "description": {
+    "value": "Floworks AI deploys autonomous AI agents \u2014 Alisha, Jesse, Linda & Sam \u2014 that prospect, personalise emails, handle replies and book meetings so your team can focus on closing.",
+    "source": "https://www.floworks.ai/"
+   },
+   "og_site_name": {
+    "value": "Floworks AI",
+    "source": "https://www.floworks.ai/"
+   },
+   "public_emails": {
+    "value": "business@floworks.ai",
+    "source": "https://www.floworks.ai/"
+   },
+   "site_generator": {
+    "value": "v0.app",
+    "source": "https://www.floworks.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:45.635800+00:00"
+ },
+ {
+  "name": "Nagent AI",
+  "seed_url": "https://nagent.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://nagent.ai/",
+    "source": "https://nagent.ai/"
+   },
+   "domain": {
+    "value": "nagent.ai",
+    "source": "https://nagent.ai/"
+   },
+   "title": {
+    "value": "Nagent AI: Multiplayer AI for Growth",
+    "source": "https://nagent.ai/"
+   },
+   "description": {
+    "value": "Nagent is multiplayer AI for growth. People and AI agents in one shared context, delivering the number across marketing, sales and content.",
+    "source": "https://nagent.ai/"
+   },
+   "og_site_name": {
+    "value": "Nagent AI",
+    "source": "https://nagent.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/nagentai/",
+    "source": "https://nagent.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@NagentContentStudio",
+    "source": "https://nagent.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:48.619418+00:00"
+ },
+ {
+  "name": "Vaani Research",
+  "seed_url": "https://vaaniresearch.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://vaaniresearch.com/",
+    "source": "https://vaaniresearch.com/"
+   },
+   "domain": {
+    "value": "vaaniresearch.com",
+    "source": "https://vaaniresearch.com/"
+   },
+   "title": {
+    "value": "Vaani AI Research \u2014 Voice AI built for a world that isn't made of words",
+    "source": "https://vaaniresearch.com/"
+   },
+   "description": {
+    "value": "Foundation speech models, orchestration infrastructure, and production voice agents engineered for India's languages and the next billion voice-first users.",
+    "source": "https://vaaniresearch.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/vaaniresearch",
+    "source": "https://vaaniresearch.com/"
+   },
+   "twitter": {
+    "value": "https://x.com/VaaniHQ",
+    "source": "https://vaaniresearch.com/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/vaaniresearch/",
+    "source": "https://vaaniresearch.com/"
+   },
+   "careers_url": {
+    "value": "https://vaaniresearch.com/team.html#careers",
+    "source": "https://vaaniresearch.com/"
+   },
+   "public_emails": {
+    "value": "chandra@vaaniresearch.com, hello@vaaniresearch.com",
+    "source": "https://vaaniresearch.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:50:49.303663+00:00"
+ },
+ {
+  "name": "Panoculon Labs",
+  "seed_url": "https://panoculonlabs.com/",
+  "fields": {},
+  "status": "failed",
+  "error": "ConnectTimeout",
+  "scraped_at": "2026-10-20T16:51:19.554900+00:00"
+ },
+ {
+  "name": "Invento Robotics (Mitra)",
+  "seed_url": "https://mitrarobot.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://mitrarobot.com/",
+    "source": "https://mitrarobot.com/"
+   },
+   "domain": {
+    "value": "mitrarobot.com",
+    "source": "https://mitrarobot.com/"
+   },
+   "title": {
+    "value": "Mitra Robot - Bringing next generation AI for humanity",
+    "source": "https://mitrarobot.com/"
+   },
+   "description": {
+    "value": "Robots are cool!",
+    "source": "https://mitrarobot.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/watch",
+    "source": "https://mitrarobot.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:19.793840+00:00"
+ },
+ {
+  "name": "Interview Kickstart",
+  "seed_url": "https://interviewkickstart.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://interviewkickstart.com/",
+    "source": "https://interviewkickstart.com/"
+   },
+   "domain": {
+    "value": "interviewkickstart.com",
+    "source": "https://interviewkickstart.com/"
+   },
+   "title": {
+    "value": "Build AI, ML And Agentic AI Skills for FAANG and Big Tech Careers | Interview Kickstart",
+    "source": "https://interviewkickstart.com/"
+   },
+   "description": {
+    "value": "Land top tech roles and transition into AI/ML with expert-led programs, personalized coaching and mock interviews. Learn from 700+ instructors from Tier-1 tech firms and boost your career now.",
+    "source": "https://interviewkickstart.com/"
+   },
+   "og_site_name": {
+    "value": "Interview Kickstart",
+    "source": "https://interviewkickstart.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/c/Interviewkickstart/videos",
+    "source": "https://interviewkickstart.com/"
+   },
+   "careers_url": {
+    "value": "https://interviewkickstart.com/agentic-ai-career-boost",
+    "source": "https://interviewkickstart.com/"
+   },
+   "public_emails": {
+    "value": "start@interviewkickstart.com",
+    "source": "https://interviewkickstart.com/"
+   },
+   "site_generator": {
+    "value": "Elementor 4.3.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+    "source": "https://interviewkickstart.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:21.640472+00:00"
+ },
+ {
+  "name": "Razorpay",
+  "seed_url": "https://razorpay.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://razorpay.com/",
+    "source": "https://razorpay.com/"
+   },
+   "domain": {
+    "value": "razorpay.com",
+    "source": "https://razorpay.com/"
+   },
+   "title": {
+    "value": "Razorpay - Best Payment Solution for Online Payments India",
+    "source": "https://razorpay.com/"
+   },
+   "description": {
+    "value": "Online Payments India: Start Accepting Payments Instantly with Razorpay's Payment Suite, which Supports Netbanking, Credit Card & Debit Cards, UPI etc.",
+    "source": "https://razorpay.com/"
+   },
+   "linkedin": {
+    "value": "https://linkedin.com/company/razorpay",
+    "source": "https://razorpay.com/"
+   },
+   "twitter": {
+    "value": "https://x.com/razorpay",
+    "source": "https://razorpay.com/"
+   },
+   "github": {
+    "value": "https://github.com/razorpay",
+    "source": "https://razorpay.com/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/razorpay/",
+    "source": "https://razorpay.com/"
+   },
+   "careers_url": {
+    "value": "https://razorpay.com/jobs/",
+    "source": "https://razorpay.com/"
+   },
+   "site_generator": {
+    "value": "Framer 232d8cb",
+    "source": "https://razorpay.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:23.154369+00:00"
+ },
+ {
+  "name": "Postman",
+  "seed_url": "https://www.postman.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.postman.com/",
+    "source": "https://www.postman.com/"
+   },
+   "domain": {
+    "value": "postman.com",
+    "source": "https://www.postman.com/"
+   },
+   "title": {
+    "value": "API engineering for your agents",
+    "source": "https://www.postman.com/"
+   },
+   "description": {
+    "value": "Go faster from development to production with higher accuracy and fewer tokens.",
+    "source": "https://www.postman.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/postman-platform",
+    "source": "https://www.postman.com/"
+   },
+   "twitter": {
+    "value": "https://x.com/getpostman",
+    "source": "https://www.postman.com/"
+   },
+   "github": {
+    "value": "https://github.com/postmanlabs/postman-plugin/tree/main/skills",
+    "source": "https://www.postman.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/postman/",
+    "source": "https://www.postman.com/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/getpostman",
+    "source": "https://www.postman.com/"
+   },
+   "careers_url": {
+    "value": "https://www.postman.com/company/careers/",
+    "source": "https://www.postman.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:24.527752+00:00"
+ },
+ {
+  "name": "Chargebee",
+  "seed_url": "https://www.chargebee.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.chargebee.com/",
+    "source": "https://www.chargebee.com/"
+   },
+   "domain": {
+    "value": "chargebee.com",
+    "source": "https://www.chargebee.com/"
+   },
+   "title": {
+    "value": "Chargebee: Billing & Monetization for SaaS and AI Companies",
+    "source": "https://www.chargebee.com/"
+   },
+   "description": {
+    "value": "Chargebee powers billing, pricing, and revenue operations for 6,500+ businesses. From recurring subscriptions to usage-based AI monetization - every model, one platform.",
+    "source": "https://www.chargebee.com/"
+   },
+   "og_site_name": {
+    "value": "Chargebee",
+    "source": "https://www.chargebee.com/"
+   },
+   "youtube": {
+    "value": "https://youtube.com/playlist",
+    "source": "https://www.chargebee.com/"
+   },
+   "careers_url": {
+    "value": "https://www.chargebee.com/company/careers/",
+    "source": "https://www.chargebee.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:25.759790+00:00"
+ },
+ {
+  "name": "Freshworks",
+  "seed_url": "https://www.freshworks.com/",
+  "fields": {},
+  "status": "failed",
+  "error": "HTTP 403",
+  "scraped_at": "2026-10-20T16:51:27.230275+00:00"
+ },
+ {
+  "name": "Unacademy",
+  "seed_url": "https://unacademy.com/",
+  "fields": {
+   "final_url": {
+    "value": "https://unacademy.com/",
+    "source": "https://unacademy.com/"
+   },
+   "domain": {
+    "value": "unacademy.com",
+    "source": "https://unacademy.com/"
+   },
+   "title": {
+    "value": "Unacademy -  India's largest learning platform",
+    "source": "https://unacademy.com/"
+   },
+   "description": {
+    "value": "Prepare for examinations and take any number of courses from various topics on Unacademy - an education revolution",
+    "source": "https://unacademy.com/"
+   },
+   "og_site_name": {
+    "value": "Unacademy",
+    "source": "https://unacademy.com/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/unacademy",
+    "source": "https://unacademy.com/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/unacademy",
+    "source": "https://unacademy.com/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/channel/UCABe2FgVNv2hgBeMu2mySVg",
+    "source": "https://unacademy.com/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/unacademy/",
+    "source": "https://unacademy.com/"
+   },
+   "careers_url": {
+    "value": "https://unacademy.com/careers",
+    "source": "https://unacademy.com/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:28.976124+00:00"
+ },
+ {
+  "name": "Meesho",
+  "seed_url": "https://www.meesho.com/",
+  "fields": {},
+  "status": "failed",
+  "error": "HTTP 403",
+  "scraped_at": "2026-10-20T16:51:30.232007+00:00"
+ },
+ {
+  "name": "Jupiter",
+  "seed_url": "https://jupiter.money/",
+  "fields": {
+   "final_url": {
+    "value": "https://jupiter.money/",
+    "source": "https://jupiter.money/"
+   },
+   "domain": {
+    "value": "jupiter.money",
+    "source": "https://jupiter.money/"
+   },
+   "title": {
+    "value": "Jupiter: 1-app For Everything Money",
+    "source": "https://jupiter.money/"
+   },
+   "description": {
+    "value": "Pay, track, save, and invest from 1-app. Open Savings Account in 3-mins. Get Instant Cash up to Rs. 5,00,000.",
+    "source": "https://jupiter.money/"
+   },
+   "og_site_name": {
+    "value": "Personal Finance, FinTech Updates from Jupiter",
+    "source": "https://jupiter.money/"
+   },
+   "twitter": {
+    "value": "https://twitter.com/TheJupiterApp",
+    "source": "https://jupiter.money/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@TheJupiterApp",
+    "source": "https://jupiter.money/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/thejupiterapp/",
+    "source": "https://jupiter.money/"
+   },
+   "careers_url": {
+    "value": "https://jupiter.money/careers",
+    "source": "https://jupiter.money/"
+   },
+   "site_generator": {
+    "value": "Ghost 6.50",
+    "source": "https://jupiter.money/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:32.513479+00:00"
+ },
+ {
+  "name": "Bureau",
+  "seed_url": "https://bureau.id/",
+  "fields": {
+   "final_url": {
+    "value": "https://bureau.id/",
+    "source": "https://bureau.id/"
+   },
+   "domain": {
+    "value": "bureau.id",
+    "source": "https://bureau.id/"
+   },
+   "title": {
+    "value": "Real-Time Fraud Prevention & Identity Decisioning | Bureau",
+    "source": "https://bureau.id/"
+   },
+   "description": {
+    "value": "Bureau stops fraud in real time using device, identity, and behavioral signals. Trusted by 200+ global brands across fintech and e-commerce.",
+    "source": "https://bureau.id/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/bureauidentity/",
+    "source": "https://bureau.id/"
+   },
+   "twitter": {
+    "value": "https://x.com/bureauidentity",
+    "source": "https://bureau.id/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@BureauID",
+    "source": "https://bureau.id/"
+   },
+   "careers_url": {
+    "value": "https://bureau.id/company#careers",
+    "source": "https://bureau.id/"
+   },
+   "public_emails": {
+    "value": "sales@bureau.id",
+    "source": "https://bureau.id/"
+   },
+   "site_generator": {
+    "value": "Framer eaba142",
+    "source": "https://bureau.id/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:33.335442+00:00"
+ },
+ {
+  "name": "Fibr AI",
+  "seed_url": "https://fibr.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://fibr.ai/",
+    "source": "https://fibr.ai/"
+   },
+   "domain": {
+    "value": "fibr.ai",
+    "source": "https://fibr.ai/"
+   },
+   "title": {
+    "value": "Fibr AI- The Agentic Web Experience Platform | AI CRO",
+    "source": "https://fibr.ai/"
+   },
+   "description": {
+    "value": "Turn every URL into an intelligent experience agent that adapts in real time to create personalized, revenue-driving experiences with AI CRO.",
+    "source": "https://fibr.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/fibrai/",
+    "source": "https://fibr.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/fibr_ai",
+    "source": "https://fibr.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@fibr_ai",
+    "source": "https://fibr.ai/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/fibr_ai_/",
+    "source": "https://fibr.ai/"
+   },
+   "site_generator": {
+    "value": "Framer d916d35",
+    "source": "https://fibr.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:34.902954+00:00"
+ },
+ {
+  "name": "Shipsy",
+  "seed_url": "https://shipsy.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.shipsy.ai/",
+    "source": "https://www.shipsy.ai/"
+   },
+   "domain": {
+    "value": "shipsy.ai",
+    "source": "https://www.shipsy.ai/"
+   },
+   "title": {
+    "value": "AI-Native Logistics TMS & WMS Platform | Shipsy",
+    "source": "https://www.shipsy.ai/"
+   },
+   "description": {
+    "value": "Discover Shipsy's AI-native logistics platform for transportation, warehousing, procurement, tracking and execution across complex enterprise supply chains.",
+    "source": "https://www.shipsy.ai/"
+   },
+   "og_site_name": {
+    "value": "Shipsy",
+    "source": "https://www.shipsy.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/shipsy/",
+    "source": "https://www.shipsy.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/Shipsy_AI",
+    "source": "https://www.shipsy.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/channel/UCfgfvtdQpIFLCIUbZ8IUGGg",
+    "source": "https://www.shipsy.ai/"
+   },
+   "careers_url": {
+    "value": "https://www.shipsy.ai/careers",
+    "source": "https://www.shipsy.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:36.411575+00:00"
+ },
+ {
+  "name": "Matters AI",
+  "seed_url": "https://matters.ai/",
+  "fields": {
+   "final_url": {
+    "value": "https://www.matters.ai/",
+    "source": "https://www.matters.ai/"
+   },
+   "domain": {
+    "value": "matters.ai",
+    "source": "https://www.matters.ai/"
+   },
+   "title": {
+    "value": "Matters.AI - Your AI Security Engineer for Data",
+    "source": "https://www.matters.ai/"
+   },
+   "description": {
+    "value": "Your AI security engineer for data. Protects sensitive data wherever it travels and lives across cloud, SaaS, and endpoints with contextual intelligence and behavioral analysis.",
+    "source": "https://www.matters.ai/"
+   },
+   "og_site_name": {
+    "value": "Matters.AI",
+    "source": "https://www.matters.ai/"
+   },
+   "linkedin": {
+    "value": "https://www.linkedin.com/company/mattersai",
+    "source": "https://www.matters.ai/"
+   },
+   "twitter": {
+    "value": "https://x.com/matters_ai",
+    "source": "https://www.matters.ai/"
+   },
+   "youtube": {
+    "value": "https://www.youtube.com/@matters-ai",
+    "source": "https://www.matters.ai/"
+   },
+   "instagram": {
+    "value": "https://www.instagram.com/matters.ai",
+    "source": "https://www.matters.ai/"
+   },
+   "careers_url": {
+    "value": "https://www.matters.ai/careers",
+    "source": "https://www.matters.ai/"
+   },
+   "public_emails": {
+    "value": "hello@matters.ai",
+    "source": "https://www.matters.ai/"
+   }
+  },
+  "status": "ok",
+  "error": "",
+  "scraped_at": "2026-10-20T16:51:37.864886+00:00"
+ }
+]
